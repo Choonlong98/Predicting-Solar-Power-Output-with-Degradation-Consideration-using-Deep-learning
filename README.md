@@ -5,6 +5,7 @@ This projects uses traditional machine learning and deep learning for forecastin
 
 
 traditional ML = Linear regression
+
 deep learning = Long short term memory
 
 I have created 2 seperate file for each model
